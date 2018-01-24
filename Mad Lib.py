@@ -1,4 +1,4 @@
-newStory = 0;
+newStory = 0
 
 while newStory != "q":
 
